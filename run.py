@@ -1,4 +1,4 @@
-#!/usr/bin/env python2
+#!/usr/bin/env python
 # if python2 does not work, run this first:
 # sudo ln -s /usr/bin/python /usr/bin/python2
 

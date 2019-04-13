@@ -10,3 +10,9 @@ alembic.ini
 *settings.py
 
 .env
+
+*sublime*
+dump*.sql
+.idea
+popong-nlp
+
